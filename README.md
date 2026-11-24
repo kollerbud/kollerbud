@@ -1,27 +1,46 @@
-# Daemon Li 
-**Data Analyst**
-Data Technician, sometimes I also do data plumbing and data carpentry 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kollerbud@gmail.com)
-___
+# Daemon Li
 
+**Data Analyst** — *data technician, part-time data plumber, occasional data carpenter*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kollerbud@gmail.com)
+
+---
 ## About Me
-Currently working as a data analyst in healthcare supply chain.
+
+Data analyst in healthcare supply chain. I take messy data, unclog the pipes, and build things that actually get used. Recently got an M.S. in Analytics at Georgia Tech.
 
 ## Things I know how to prompt
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages:** Python, SQL, R, JavaScript
 
-**Machine Learning**
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-017E63?style=for-the-badge&logo=lightgbm&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3377FF?style=for-the-badge&logo=xgboost&logoColor=white)
+**Machine Learning:** PySpark, Pandas, Polars, Scikit-learn, PyTorch, LightGBM, XGBoost
+
+**Visualization:** Tableau, Power BI, Matplotlib, Streamlit
+
+**Cloud & Data Engineering:** Microsoft Fabric, Databricks, Google Cloud
+
+**AI / LLM:** Agentic workflows, Prompt engineering, RAG, Fine-tuning
+
+---
+
+## Pinned Projects
+### [PayoffPitch](https://github.com/kollerbud/PayoffPitch)
+Pitch-by-pitch Monte Carlo baseball simulator. Two LightGBM models (pitch type + outcome) drive a Markov-chain plate-appearance engine over Statcast data.
+*Why pin this?* Statcast is awesome — the data is clean and ready to go, so I can trial all kinds of models. Plus, baseball is fun.
+
+### [TORTOISE](https://github.com/dsubedi753/TORTOISE)
+Fine-grained segmentation of illegal gold mines from Sentinel-2 satellite imagery — fine-tuned SAM2 and U-Net in PyTorch.\
+*Why pin this?* Actually impactful: it helps activists protect the Amazon from illegal gold mining. Recognized by the journalist/activist group [Earthrise Media](https://github.com/earthrise-media/mining-detector#methodology).
+
+### [CTA Blue Line Tracker](https://github.com/kollerbud/cta_gcp)
+Serverless data pipeline on GCP with a Streamlit frontend for real-time train arrivals.\
+*Why pin this?* We all know the CTA isn't what it used to be post-COVID. I wanted to gather arrival data to prove it. I'm also experimenting with arrival-time models on this data.
+
+### [Chicago Ward Data Analysis](https://github.com/ward-wise/data-analysis)
+Extract, geocode, and analyze Chicago aldermanic menu spending for civic infrastructure data.\
+
+*Why pin this?* I was involved with Chi Hack Night and helped a group with this project. It's also a data point I can bring to my alderman to get them to fix the potholes.
+
+---
 
 
